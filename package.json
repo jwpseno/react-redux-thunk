@@ -11,7 +11,7 @@
     "test": "mocha --reporter progress tools/testSetup.js \"src/**/*.test.js\"",
     "test:watch": "npm run test -- --watch"
   },
-  "author": "John William Seno", 
+  "author": "John William Seno",
   "license": "MIT",
   "dependencies": {
     "babel-polyfill": "6.8.0",
